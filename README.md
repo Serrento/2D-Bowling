@@ -42,6 +42,28 @@ The project demonstrates fundamental Computer Graphics concepts including:
 
 ---
 
+## 🚀 How to Run
+
+[#-how-to-run](#-how-to-run)
+
+1. **Clone the repository**
+```bash
+   git clone https://github.com/Serrento/2D-Bowling.git
+   cd 2D-Bowling
+```
+
+2. **Install dependencies**
+```bash
+   pip install -r requirements.txt
+```
+
+3. **Run the game**
+```bash
+   python bowling_game.py
+```
+
+**Requirements:** Python 3.8+, and a system with OpenGL support (most systems have this by default).
+
 ## 📁 Project Structure
 
 ```text
